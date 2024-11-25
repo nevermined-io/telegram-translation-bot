@@ -34,7 +34,7 @@ Installation
 1.  **Clone the repository**
     
     ```bash
-    git clone https://github.com/nevermined-io/translation_telegram_bot.git
+    git clone https://github.com/nevermined-io/telegram-translation-bot.git
     cd telegram-translation-bot
     ```
     
